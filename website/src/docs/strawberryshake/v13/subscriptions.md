@@ -16,7 +16,7 @@ GraphQL subscriptions can be used through reactive APIs like queries. Instead of
 
 To create a subscription, we start with everything in Strawberry Shake by creating a GraphQL file.
 
-1. Create a new GraphQL file and call it `OnSessionUpdated` with the following content.
+1. Create a new GraphQL file and call it `OnSessionUpdated.graphql` with the following content.
 
 ```graphql
 subscription OnSessionUpdated {
